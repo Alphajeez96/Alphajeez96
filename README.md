@@ -26,10 +26,10 @@ I am passionate about crafting highly engaging and responsive user interfaces. M
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alphajeez96&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alphajeez96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+ ![](https://github-profile-trophy.vercel.app/?username=alphajeez96&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
