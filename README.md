@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am passionate about crafting highly engaging and responsive user interfaces. My expertise lies in utilizing JavaScript frameworks such as Vue.js and React.js and using tools and technologies in their ecosystems. <br><br>I am also well-versed in utility-first CSS frameworks such as TailwindCSS, which enables me to design and develop performant and visually pleasing web experiences.<br><br>I am driven by the understanding that the client side is the first point of contact for users, which is a key factor that keeps them on the platform for longer. <br><br>This makes me strive for pixel-perfect implementation of user-centric designs, optimal accessibility, and web performance when building applications. I believe that a good user experience should be available to everyone, and I am committed to ensuring that my applications meet the highest standards of accessibility and performance constantly.
+One of my key strengths lies in my ability to deliver visually compelling and pixel-perfect replicas of any design. Moreover, my experience in managing teams and providing valuable product-level suggestions adds another layer of strength to my qualifications. By combining my design expertise with leadership skills and strategic insights, I offer a well-rounded skill set that can contribute to the team's success.
+ <br> <br>
+I am driven by the understanding that the client side is the initial point of contact for users, significantly influencing their engagement on the platform. Thus, I prioritize the pixel-perfect implementation of user-centric designs, optimize accessibility, and strive for excellent web performance when building applications. My ultimate goal is to create an exceptional user experience that keeps users engaged for extended periods.
+<br> <br>
+I firmly believe that a good user experience should be accessible to everyone. As such, I am committed to maintaining the highest standards of accessibility and performance in all my applications.
+<br><br>
+When it comes to JavaScript frameworks, I specialize in leveraging Vue.js, Nuxt.js, and React.js. I possess a strong command of the tools and technologies within their respective ecosystems. Additionally, I am proficient in working with utility-first CSS frameworks like TailwindCSS.
 
 
 ## 🌐 Socials:
