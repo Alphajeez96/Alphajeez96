@@ -1,11 +1,9 @@
 # 💫 About Me:
-One of my key strengths lies in my ability to deliver visually compelling and pixel-perfect replicas of any design. Moreover, my experience in managing teams and providing valuable product-level suggestions adds another layer of strength to my qualifications. By combining my design expertise with leadership skills and strategic insights, I offer a well-rounded skill set that can contribute to the team's success.
- <br> <br>
-I am driven by the understanding that the client side is the initial point of contact for users, significantly influencing their engagement on the platform. Thus, I prioritize the pixel-perfect implementation of user-centric designs, optimize accessibility, and strive for excellent web performance when building applications. My ultimate goal is to create an exceptional user experience that keeps users engaged for extended periods.
-<br> <br>
-I firmly believe that a good user experience should be accessible to everyone. As such, I am committed to maintaining the highest standards of accessibility and performance in all my applications.
-<br><br>
-When it comes to JavaScript frameworks, I specialize in leveraging Vue.js, Nuxt.js, and React.js. I possess a strong command of the tools and technologies within their respective ecosystems. Additionally, I am proficient in working with utility-first CSS frameworks like TailwindCSS.
+Hello 👋, I'm Prince. Front-end developer with a strong track record of 4+ years in building and scaling multi-tenant systems, e-commerce platforms, fintech applications, and blockchain-powered solutions. Specialized in JavaScript frameworks including Vue.js, Nuxt.js, and React.js, with proficiency in utility-first CSS frameworks like TailwindCSS. 
+<br><br> 
+I have notable expertise in delivering visually compelling designs and pixel-perfect replicas, optimizing accessibility, and ensuring excellent web performance. Skilled in managing teams, providing product-level suggestions, and collaborating with stakeholders. 
+<br><br> 
+Recognized for contributions to data-intensive proprietary technology utilized by over 250 corporate bodies including renowned companies in the tech industry, such as Amazon, Netflix, Meta, Binance, and Reddit. Published author in renowned technical publications. Committed to creating exceptional user experiences and maintaining high accessibility and performance standards.
 
 
 ## 🌐 Socials:
