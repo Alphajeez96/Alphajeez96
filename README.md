@@ -25,10 +25,10 @@ Recognized for contributions to data-intensive proprietary technology utilized b
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-# 📊 GitHub Stats:
+<!--  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alphajeez96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=alphajeez96&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
