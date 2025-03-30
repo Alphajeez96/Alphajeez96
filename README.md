@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Prince. Front-end developer with a strong track record of 5+ years in building and scaling multi-tenant systems, e-commerce platforms, fintech applications, and blockchain-powered solutions. Specialized in JavaScript frameworks including Vue.js, Nuxt.js, and React.js, with proficiency in utility-first CSS frameworks like TailwindCSS. 
+Hello 👋, I'm Prince. Front-end developer with a strong track record of 6+ years in building and scaling multi-tenant systems, e-commerce platforms, fintech applications, and blockchain-powered solutions. Specialized in JavaScript frameworks including Vue.js, Nuxt.js, and React.js, with proficiency in utility-first CSS frameworks like TailwindCSS. 
 <br><br> 
 I have notable expertise in delivering visually compelling designs and pixel-perfect replicas, optimizing accessibility, and ensuring excellent web performance. Skilled in managing teams, providing product-level suggestions, and collaborating with stakeholders. 
 <br><br> 
