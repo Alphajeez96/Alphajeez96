@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello 👋, I'm Prince. Front-end developer with a strong track record of 6+ years in building and scaling multi-tenant systems, e-commerce platforms, fintech applications, and blockchain-powered solutions. Specialized in JavaScript frameworks including Vue.js, Nuxt.js, and React.js, with proficiency in utility-first CSS frameworks like TailwindCSS. 
+I thrive in environments where there’s intense product obsession; I believe that compounds and translates to the sheer value users get. I classify my level of obsession as one that threads a thin line that borders around “mental paranoia”. The value a system provides is subjective, quite right. Still, for me, it involves applying that intensity from a helicopter view of the system down to seemingly insignificant things, as the right intuitive feedback on user actions, micro interactions between components, the right hover states and easing curves that convey proper context to the user. I just want to roll up my sleeves and build things that matter, with people who care about getting it right.
 <br><br> 
-I have notable expertise in delivering visually compelling designs and pixel-perfect replicas, optimizing accessibility, and ensuring excellent web performance. Skilled in managing teams, providing product-level suggestions, and collaborating with stakeholders. 
+With over six years of front-end development experience, including five years mastering JavaScript and tools within its ecosystem, I’ve been privileged to build and scale complex, high-performance applications, ranging from multi-tenant frontend applications to fintech and blockchain-powered solutions. 
 <br><br> 
-Recognized for contributions to data-intensive proprietary technology utilized by over 250 corporate bodies including renowned companies in the tech industry, such as Amazon, Netflix, Meta, Binance, and Reddit. Published author in renowned technical publications. Committed to creating exceptional user experiences and maintaining high accessibility and performance standards.
+While I may not fit the conventional definition of a product manager, I’m grossly obsessed with the systems I build. For me, that means not just checking tickets off the task board but being involved in the day-to-day performance of the system and how that translates to customer retention, possibly saving cost, and delivering value every time.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-chukwudire/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Alphajeez_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-chukwudire/) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Alphajeez_) 
 
 # 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
