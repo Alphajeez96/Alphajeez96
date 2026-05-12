@@ -1,39 +1,250 @@
-# 💫 About Me:
-I thrive in environments where there’s intense product obsession; I believe that compounds and translates to the sheer value users get. I classify my level of obsession as one that threads a thin line that borders around “mental paranoia”. The value a system provides is subjective, quite right. Still, for me, it involves applying that intensity from a helicopter view of the system down to seemingly insignificant things, as the right intuitive feedback on user actions, micro interactions between components, the right hover states and easing curves that convey proper context to the user. 
-<br><br> 
-With over six years of front-end development experience, including five years mastering JavaScript and tools within its ecosystem, I’ve been privileged to build and scale complex, high-performance applications, ranging from multi-tenant frontend applications to fintech and blockchain-powered solutions. 
-<br><br> 
-While I may not fit the conventional definition of a product manager, I’m grossly obsessed with the systems I build. For me, that means not just checking tickets off the task board but being involved in the day-to-day performance of the system and how that translates to customer retention, possibly saving cost, and delivering value every time.
+<div align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:166534&height=280&section=header&text=Prince%20Chukwudire&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20Craft%20and%20Beauty%20Connoisseur&descAlignY=63&descSize=18&animation=fadeIn"/>
+</div>
+<div align="center">
+
+# 
+
+I thrive in environments where there’s intense product obsession. I believe that compounds and translates into the quality of value finally distilled to users. I classify my level of obsession as one that threads a thin line that borders around “mental paranoia”. A core part of my process is applying this intensity from a helicopter view of the system down to the microfilaments and interactions that dictate feedback and proper context to the user. In all this, I just want to roll up my sleeves and build things that matter, with people who care about getting it right.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-chukwudire/) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Alphajeez_) 
+[LinkedIn](https://www.linkedin.com/in/prince-chukwudire/) | [chimeremezechukwudire@gmail.com](mailto:chimeremezechukwudire@gmail.com)  | [Quick Rodeo](https://www.loom.com/share/4f19ae7838a94cc59ea46d7624329b57?sid=1fb530fa-dde0-44ad-9329-3f6b545d5df2) 
 
-# 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- <p>
+  <img src="https://img.shields.io/badge/Currently%20Building-StratArena-0f172a?style=flat-square&labelColor=111827&color=14532d" />
+  <img src="https://img.shields.io/badge/Focus-Real--Time%20Products-0f172a?style=flat-square&labelColor=111827&color=1d4ed8" />
+</p> -->
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<!-- # Building
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+### StratArena
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-<!--  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alphajeez96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphajeez96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+A crypto strategy backtesting app for testing, refining, and comparing trading ideas in a clearer workflow.
 
-<!-- ## 🏆 GitHub Trophies
- ![](https://github-profile-trophy.vercel.app/?username=alphajeez96&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+The goal is to make strategy building feel more structured and less chaotic, so traders can move from an idea to a stable workflow with more clarity.
 
-<!-- ### ✍️ Random Dev Quote
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+I want it to feel:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* clear before it feels powerful
+* fast before it feels complex
+* reliable before it feels clever
+
+Right now I am focused on:
+
+* shaping a calmer backtesting workflow
+* making strategy logic easier to understand and review
+* building product foundations that can scale into a larger platform -->
+
+
+---
+
+# What I've Worked On
+
+I’ve had my fair share of playing with software for over seven years, with six of those spent mastering JavaScript and tools within its ecosystem. I’ve been privileged in that time span to build and scale across various facets in the ecosystem.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;" href="https://gemnote.com"/>
+
+<img style="min-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1778608456/GH-Readme/Gemnote-landing_pn9ci7.png" width="100%" height="100%" />
+
+## Gemnote
+
+<p style="margin:4px"> YC-backed proprietary technology used by over 250 companies (including household names like Meta, OpenAI, Netflix, and Google) to streamline gifting and inventory operations. </p>
+
+<!-- <div> 
+  <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,rails,docker,postgres" alt="Backend" height="" />
+</div> -->
+
+</td>
+
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;" href="https://araistotle.facticity.ai"/>
+
+<img style="max-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/v1778602834/GH-Readme/facticity-ai_r0whem.png" width="100%" height="100%" />
+
+
+## Araistotle
+
+<section style="display: flex; flex-direction: column; height: 15rem";>
+<p style="margin:4px"> Real-time, explainable fact-checking, Truth terminal to fact-check texts, audio and videos in real time. 
+ </p>
+<br>
+
+<!-- <div style="margin-top: auto"> 
+  <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,rails,docker,postgres" alt="Backend" height="" />
+</div> -->
+
+</section>
+
+</td>
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;"  href="https://www.bujeti.com"/>
+
+<img style="max-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/v1778604482/GH-Readme/bujeti-page_vzxhac.png" width="100%" height="100%" />
+
+## Bujeti
+
+<p style="margin:4px"> YC-backed Finance Control Centre for African businesses; for expense management, automated payments, corporate cards, invoicing, vendor management, accounting, budgeting, and payroll. </p>
+</td>
+
+</tr>
+
+<!-- ROW 2 -->
+
+<tr>
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;" href="https://www.mc2.fi"/>
+
+<img style="max-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/v1778604904/GH-Readme/mc2-v5_e0oysn.png" width="100%" height="100%" />
+
+
+## MC² Finance
+
+<p style="margin:4px"> DeFi terminal for wallet aggregation, enabling users to trade cross-chain, cross-protocols, and multi-asset with a single signature. </p>
+
+<!-- <div> 
+  <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,rails,docker,postgres" alt="Backend" height="" />
+</div> -->
+
+</td>
+
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;"  href="https://chats.cash"/>
+
+<img style="max-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/v1778606569/GH-Readme/chats-ngo_wgt1mp.png" width="100%" height="100%" />
+
+
+## CHATS
+
+<section style="display: flex; flex-direction: column; height: 15rem";>
+<p style="margin:4px"> Transparent, Blockchain-backed aid distribution system, with solutions for cash and voucher aid.
+ </p>
+<br>
+
+<!-- <div style="margin-top: auto"> 
+  <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,rails,docker,postgres" alt="Backend" height="" />
+</div> -->
+
+</section>
+
+</td>
+
+<td width="33%" valign="top">
+<a style="text-decoration:none;color:inherit;"  href="https://msdat.fmohconnect.gov.ng/"/>
+
+<img style="max-height: 122px" src="https://res.cloudinary.com/alphajeez/image/upload/v1778606766/GH-Readme/Msdat_dbkbyu.png" width="100%" height="100%" />
+
+## MSDAT
+
+<p style="margin:4px"> Multi-Source Data Analytics and Triangulation (MSDAT) platform for Health Data and Analytics in Nigeria.</p>
+</td>
+
+</tr>
+
+</table>
+
+---
+### What I care about the most
+
+While I may not fit the “conventional” definition of a product manager, I’m grossly obsessed with the systems I build. For me, that means not just checking tickets off a task board. I’m comfortable with ambiguity, and I move fast when necessary. It's important to me that there's no room left for mediocrity.
+
+---
+
+# Toolbox
+
+<!-- <div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vue,nuxtjs" />
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,firebase" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+
+</div> -->
+
+<p align="center" dir="auto">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nuxt,gatsby" alt="Frontend" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,supabase,docker,postgres" alt="Backend" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,jest" alt="Tools" />
+</p>
+
+---
+
+<!-- # How I Think
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Product
+
+* Good software should feel focused
+* UX should reduce friction, not add decoration
+* Features matter less than clarity and trust
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering
+
+* Architecture should make future changes easier
+* Systems should be explicit, observable, and maintainable
+* Real-time behavior should feel dependable, not fragile
+
+</td>
+</tr>
+</table>
+
+--- -->
+
+<!-- # GitHub
+
+<div align="center">
+
+
+
+
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alphajeez96&show_icons=true&theme=transparent&title_color=22c55e&text_color=cbd5e1&icon_color=22c55e&border_color=1f2937&ring_color=22c55e" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphajeez96&layout=compact&theme=transparent&title_color=22c55e&text_color=cbd5e1&border_color=1f2937" />
+
+</div> -->
+
+
+
+<!-- # Connect
+
+If you are building in crypto, mobile, or real-time products, I am always happy to connect with thoughtful builders.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-020617?style=for-the-badge\&logo=vercel\&logoColor=white)](https://example.com)
+[![StratArena](https://img.shields.io/badge/StratArena-14532d?style=for-the-badge\&logo=chainlink\&logoColor=white)](https://example.com)
+[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alpha@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+
+</div>
+
+<br> -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d4d3d,50:071b34,100:031019&height=80&section=footer" />
+</div>
